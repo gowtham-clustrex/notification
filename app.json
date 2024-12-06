@@ -1,4 +1,9 @@
 {
   "name": "notification",
-  "displayName": "notification"
+  "displayName": "notification",
+  "extra": {
+    "eas": {
+      "projectId": "74cf0e50-8a8a-437d-b595-6125f3715eb8"
+    }
+  }
 }

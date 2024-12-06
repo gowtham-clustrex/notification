@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575939638712",
+    "project_id": "notification-poc-ecf97",
+    "storage_bucket": "notification-poc-ecf97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575939638712:android:404acea2335705bb59cb4d",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvtcv-jiTQAUauYjVlHhNcAzvFO9qzXP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
